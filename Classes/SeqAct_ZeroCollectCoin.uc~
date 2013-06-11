@@ -1,0 +1,8 @@
+class SeqAct_TMTCollectCoin extends SequenceAction;
+ 
+DefaultProperties
+ {
+    ObjName="Collect Coin"
+        ObjCategory="Tomato"
+    HandlerName="CollectCoin"
+ }
